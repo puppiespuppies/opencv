@@ -2,7 +2,7 @@
 <opencv_storage>
 <params>
   <stageType>BOOST</stageType>
-  <featureType>LBP</featureType>
+  <featureType>HAAR</featureType>
   <height>40</height>
   <width>80</width>
   <stageParams>
@@ -14,5 +14,6 @@
     <maxWeakCount>100</maxWeakCount></stageParams>
   <featureParams>
     <maxCatCount>0</maxCatCount>
-    <featSize>1</featSize></featureParams></params>
+    <featSize>1</featSize>
+    <mode>ALL</mode></featureParams></params>
 </opencv_storage>

@@ -1,3 +1,4 @@
+./samples/img_006.jpg.vec
 ./samples/img_012.jpg.vec
 ./samples/img_013.jpg.vec
 ./samples/img_014.jpg.vec
